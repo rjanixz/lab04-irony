@@ -1,0 +1,17 @@
+﻿
+
+// crear el arbol			X
+// ver si la raiz se repite
+// degenerado
+// espejo					X
+
+Entrada = 5 ( 4(1), 2);
+
+
+start = NUMBER children
+
+children - > ( value, value )
+		| ( value )
+
+value : NUMBER
+		| NUMBER children

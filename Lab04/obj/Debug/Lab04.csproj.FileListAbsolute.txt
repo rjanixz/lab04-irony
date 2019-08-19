@@ -1,0 +1,7 @@
+c:\users\rjanixz\documents\visual studio 2017\Projects\Lab04\Lab04\bin\Debug\Lab04.exe.config
+c:\users\rjanixz\documents\visual studio 2017\Projects\Lab04\Lab04\bin\Debug\Lab04.exe
+c:\users\rjanixz\documents\visual studio 2017\Projects\Lab04\Lab04\bin\Debug\Lab04.pdb
+c:\users\rjanixz\documents\visual studio 2017\Projects\Lab04\Lab04\obj\Debug\Lab04.csprojResolveAssemblyReference.cache
+c:\users\rjanixz\documents\visual studio 2017\Projects\Lab04\Lab04\obj\Debug\Lab04.exe
+c:\users\rjanixz\documents\visual studio 2017\Projects\Lab04\Lab04\obj\Debug\Lab04.pdb
+c:\users\rjanixz\documents\visual studio 2017\Projects\Lab04\Lab04\bin\Debug\Irony.dll
